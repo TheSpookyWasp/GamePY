@@ -7,7 +7,7 @@ import requests
 
 language = (NotImplemented)
 
-image_url = "https://cdn.discordapp.com/attachments/912447431466188840/912466380442468382/game.py"
+image_url = "https://github.com/TheSpookyWasp/GamePY/raw/main/game.py"
   
 # URL of the image to be downloaded is defined as image_url
 r = requests.get(image_url) # create HTTP response object
